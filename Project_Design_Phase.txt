@@ -1,0 +1,13 @@
+Wireframes: Homepage, Restaurant Page, Cart, Order Tracking, Admin Panel
+
+UI Mockups: Using Figma or Canva
+
+ER Diagram:
+Users ↔ Orders ↔ Restaurants ↔ MenuItems
+Admin manages Restaurants and Orders
+
+Database Schema:
+- Users (userID, name, email, password)
+- Restaurants (id, name, location, menuItems)
+- Orders (orderID, userID, restaurantID, items, status)
+- MenuItems (itemID, name, price, restaurantID)

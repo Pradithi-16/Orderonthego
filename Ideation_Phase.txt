@@ -1,0 +1,11 @@
+Project Title: OrderOnTheGo – Your On-Demand Food Ordering Solution
+
+Problem Statement: People face delays and confusion while ordering food on the go. They need a faster, cleaner, and location-based solution.
+
+Objective: Create a platform that enables users to quickly find, order, and track food from nearby restaurants.
+
+Target Audience: Students, office-goers, travelers, urban customers
+
+Proposed Solution: A responsive website (and app-ready design) that connects users to nearby restaurants with real-time order updates and easy payments.
+
+Unique Selling Points: Speed, location-awareness, minimal UI, admin and restaurant dashboards

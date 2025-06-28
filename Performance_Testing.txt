@@ -1,0 +1,10 @@
+Tools: Postman, Lighthouse, JMeter
+
+Tests Performed:
+- Load testing on homepage
+- API response time checks
+- Mobile responsiveness
+- Cross-browser testing
+
+Bugs Found: [to be updated during dev]
+Optimization Done: Image compression, lazy loading, caching

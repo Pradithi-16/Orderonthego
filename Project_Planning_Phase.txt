@@ -1,0 +1,12 @@
+Timeline:
+Week 1: Research & Ideation
+Week 2–3: Design & Wireframing
+Week 4–5: Backend + API Integration
+Week 6: Frontend Development
+Week 7: Testing + Deployment
+
+Team Roles:
+- Frontend Dev: UI/UX + React
+- Backend Dev: API + DB
+- QA/Testing: Bugs, performance checks
+- Project Lead: Coordination + Docs
